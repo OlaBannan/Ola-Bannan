@@ -1,4 +1,5 @@
 # Ola Bannan
+<br>
 
 - 👋 Hi, I'm Ola
 - 🔭 Computer Science graduate with passionate about Data Science and Algorithms           
