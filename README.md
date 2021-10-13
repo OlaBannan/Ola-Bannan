@@ -11,6 +11,7 @@
 
 ### Languages:
 <p>  
+   &nbsp; &nbsp;
    <img src="https://img.icons8.com/color/48/000000/python--v2.png" width = 50/> 
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width = 50>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png"  width = 50/>
@@ -26,7 +27,8 @@
 
 ### Connect With Me:                                                             
 
-<p >  
+<p > 
+   &nbsp; &nbsp;&nbsp;
    <a href="mailto:ola.bannan96@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width = 50/></a>
    <a href="https://www.linkedin.com/in/ola-bannan-98a667175"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width = 50/></a>
    <a href="https://www.youtube.com/channel/UCDbhWlpvkWcFpuDW4rN_L2g"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube" width = 50/></a>
