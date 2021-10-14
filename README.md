@@ -2,7 +2,7 @@
 <br>
 
 - 👋 Hi, I'm Ola
-- 🔭 Computer Science graduate with passionate about Data Science and Algorithms           
+- 🔭 Computer Science graduate with passionate about data Science and algorithms           
 - 👩‍💻 Proactive, dynamic and multi-skilled programmer
 - 🌱 I’m currently improving my data structure and algorithm skills
 - ⚡ Fun fact: Interested in the topics of motivation and psychology
